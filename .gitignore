@@ -1,3 +1,6 @@
 .env
 venv/
 .idea/
+data.db
+.idea/PHP_support.iml
+.idea/misc.xml
